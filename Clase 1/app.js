@@ -16,5 +16,3 @@ else if (edad<25) {
 else { 
     alert ("Edad desaprobada")
 }
-
-
